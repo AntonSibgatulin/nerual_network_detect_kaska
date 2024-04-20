@@ -18,7 +18,7 @@ pip install jupyter
 ```shell
 mkdir workdir/
 cd workdir
-!git clone https://github.com/EscVM/OIDv4_ToolKit.git
+git clone https://github.com/EscVM/OIDv4_ToolKit.git
 cd OIDv4_ToolKit
 python -m pip install -r requirements.txt
 python -m pip install lxml
