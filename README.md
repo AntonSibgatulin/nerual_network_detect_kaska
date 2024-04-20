@@ -152,7 +152,7 @@ import xml.etree.ElementTree as ET
 from os import getcwd
 import os
 
-dataset_train = 'OID/Dataset/test/'
+dataset_train = 'OID/Dataset/train/'
 
 dataset_file = 'train.txt'
 classes_file = 'obj.names'
