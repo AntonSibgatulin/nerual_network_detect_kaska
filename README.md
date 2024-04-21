@@ -302,7 +302,15 @@ git clone https://github.com/opencv/opencv.git
 mkdir build
 cd build
 
+sudo apt install cmake
+
 cmake ../
+
+
+make
+sudo make install
+
+
 ```
 
 
